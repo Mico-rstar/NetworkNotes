@@ -3,7 +3,7 @@
 
 
 # 学习路径
-[小林笔记](https://xiaolincoding.com/network/1_base/)
+[小林笔记](https://xiaolincoding.com/network/)
 [参考链接](https://www.zhihu.com/question/59294419)
 1. HTTP - 《图解http》
 2. TCP/IP模型 - 《图解TCP/IP》
